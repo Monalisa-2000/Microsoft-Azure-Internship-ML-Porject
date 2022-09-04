@@ -1,4 +1,5 @@
-# MICROSOFT_FUTURE_READY_TALENTS_INTERNSHIP_PROJECT_USING_PYTHON_ML ![image](https://user-images.githubusercontent.com/75751123/188314166-0c77f4bd-f2d6-4fb1-8d2b-701278693734.png)
+# MICROSOFT_FUTURE_READY_TALENTS_INTERNSHIP_PROJECT_USING_PYTHON_ML   
+![image](https://user-images.githubusercontent.com/75751123/188314194-63551a1d-2e13-49ee-9f10-530e07e935de.png)
 
 
 # Industry: Health
