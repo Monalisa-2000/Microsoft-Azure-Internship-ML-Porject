@@ -4,17 +4,36 @@
 # Industry: 
 Health
 
-# Project Title: 
-BREAST-CANCER-PREDICTION
+# BREAST-CANCER-PREDICTION MACHINE LEARNING
 
-# Problem Statement/Opportunity:
-Apply the fundamental concepts of machine learning from an available dataset Evaluate and interpret my results and justify my interpretation based on observed data set Create notebooks that serve as computational records and document my thought process.
+The Breast Cancer Prediction Machine Learning project is a tool for predicting whether a breast cancer tumor is benign or malignant using different Machine Learning algorithms. Built on the Jupyter Notebook platform and deployed in Azure, this project uses various algorithms to analyze breast cancer data and predict the outcome of a new case.
 
-# Project Description:
-Breast cancer has the second highest mortality rate in women next to lung cancer. As per clinical statistics, 1 in every 8 women is diagnosed with breast cancer in their lifetime. However, periodic clinical check-ups and self-tests help in early detection and thereby significantly increase the chances of survival. Invasive detection techniques cause rupture of the tumor, accelerating the spread of cancer to adjoining areas. Hence, there arises the need for a more robust, fast, accurate, and efficient non-invasive cancer detection system. Early detection can give patients more treatment options. In order to detect signs of cancer, breast tissue from biopsies is stained to enhance the nuclei and cytoplasm for microscopic examination. Then, pathologists evaluate the extent of any abnormal structural variation to determine whether there are tumors. Architectural Distortion (AD) is a very subtle contraction of the breast tissue and may represent the earliest sign of cancer. Since it is very likely to be unnoticed by radiologists, several approaches have been proposed over the years but none using deep learning techniques. AI will become a transformational force in healthcare and soon, computer vision models will be able to get a higher accuracy when researchers have the access to more medical imaging datasets. The application of machine learning models for prediction and prognosis of disease development has become an irrevocable part of cancer studies aimed at improving the subsequent therapy and management of patients. The application of machine learning models for accurate prediction of survival time in breast cancer on the basis of clinical data is the main objective. We have developed a computer vision model to detect breast cancer in histopathological images. Two classes will be used in this project: Benign and Malignant
+## FEATURE
+Some of the key features of the Breast Cancer Prediction Machine Learning project include:
 
-# Primary Azure Technology:
-Azure Machine Learning
+Analysis of breast cancer data to identify trends and patterns
+Implementation of various Machine Learning algorithms to classify breast cancer tumors as benign or malignant
+Evaluation of algorithm performance to determine the most accurate model
+Comparison of different approaches to Machine Learning for breast cancer prediction
+Deployment of the model in Azure for easy accessibility
+Jupyter Notebook documentation to guide the project implementation and usage
 
-# Project_Link
+## GETTING STARTED
+To use the Breast Cancer Prediction Machine Learning project, simply download or clone the repository and open the Jupyter Notebook. The notebook provides step-by-step guidance on how to run the code and use the project. Additionally, a sample dataset is provided to test the accuracy of the algorithms and make predictions. The model can also be accessed through the Azure web app.
+
+## TECHNOLOGIES USED
+The Breast Cancer Prediction Machine Learning project is built using the following technologies:
+
+* Python
+* Jupyter Notebook
+* Machine Learning libraries including scikit-learn, pandas, numpy, matplotlib
+* Azure machine Learning
+
+## DEPLOYMENT
+The model is deployed in Azure as a web app. To access the model, simply go to the Azure web app URL and make predictions using the provided form.
+
+## CONTACT
+If you have any questions or feedback about the Breast Cancer Prediction Machine Learning project, please don't hesitate to reach out to us at [email address]. We'd love to hear from you!
+
+## PROJECT LINK
 https://ml.azure.com/fileexplorerAzNB?wsid=/subscriptions/5073dfb1-78cf-4472-8050-2e083bbe1e13/resourcegroups/new/workspaces/New&tid=29885d7e-d6c4-4d29-bb50-4f367fc43d27&notebookPivot=0&activeFilePath=Cancer%20Prediction.ipynb
